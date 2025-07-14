@@ -1,0 +1,17 @@
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\config\CacheConfig.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\config\EmbeddedRedisConfig.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\controller\MenuController.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\dto\ApiResponse.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\dto\CreateRestaurantRequest.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\dto\MenuItemDTO.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\dto\RestaurantDTO.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\entity\MenuItem.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\entity\Restaurant.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\exception\DuplicateResourceException.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\exception\GlobalExceptionHandler.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\exception\ResourceNotFoundException.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\MenuServiceApplication.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\repository\MenuItemRepository.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\repository\RestaurantRepository.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\service\CacheService.java
+C:\SwiggyAssignment\SwiggySDE2Test\src\main\java\com\fooddelivery\menuservice\service\MenuService.java

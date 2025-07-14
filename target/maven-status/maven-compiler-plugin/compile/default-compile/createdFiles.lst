@@ -1,0 +1,17 @@
+com\fooddelivery\menuservice\entity\Restaurant.class
+com\fooddelivery\menuservice\service\MenuService.class
+com\fooddelivery\menuservice\dto\ApiResponse.class
+com\fooddelivery\menuservice\controller\MenuController.class
+com\fooddelivery\menuservice\exception\DuplicateResourceException.class
+com\fooddelivery\menuservice\dto\RestaurantDTO.class
+com\fooddelivery\menuservice\config\CacheConfig.class
+com\fooddelivery\menuservice\MenuServiceApplication.class
+com\fooddelivery\menuservice\entity\MenuItem.class
+com\fooddelivery\menuservice\dto\MenuItemDTO.class
+com\fooddelivery\menuservice\exception\ResourceNotFoundException.class
+com\fooddelivery\menuservice\repository\MenuItemRepository.class
+com\fooddelivery\menuservice\repository\RestaurantRepository.class
+com\fooddelivery\menuservice\exception\GlobalExceptionHandler.class
+com\fooddelivery\menuservice\dto\CreateRestaurantRequest.class
+com\fooddelivery\menuservice\config\EmbeddedRedisConfig.class
+com\fooddelivery\menuservice\service\CacheService.class
