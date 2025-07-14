@@ -143,9 +143,6 @@ GET /api/v1/restaurants/{restaurantId}/menu
 3. **After L1 expiry**: L2 cache hit → Updates L1 cache
 4. **After both expiry**: Database hit → Updates both caches
 
-### Cache Configuration
-- **L1 (Caffeine)**: 30-minute expiration, 1000 max entries
-- **L2 (Redis)**: 1-hour TTL, embedded Redis for development
 
 ## 🛠️ Technology Stack
 
@@ -316,6 +313,5 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 - ✅ **API 1**: Add restaurant and menu items (direct database insertion)
 - ✅ **API 2**: Get restaurant menu with multi-level caching (L1→L2→DB)
 - ✅ **RESTful Design**: Proper HTTP methods, status codes, resource-based URLs
-- ✅ **Database Schema**: Exact schema as specified (UUIDs as BINARY(16))
 - ✅ **Caching Strategy**: Caffeine (L1) → Redis (L2) → Database (L3)
 - ✅ **H2 Support**: In-memory database with MySQL migration path
